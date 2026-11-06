@@ -1,0 +1,12 @@
+{
+  "name": "TheClub",
+  "short_name": "TheClub",
+  "description": "Мобильное приложение ночного клуба для гостей",
+  "lang": "ru",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#151515",
+  "theme_color": "#151515",
+  "icons": [{ "src": "/img/logo.webp", "sizes": "300x300", "type": "image/webp", "purpose": "any" }]
+}
